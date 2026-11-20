@@ -4,10 +4,6 @@ PyTorch implementation of a hybrid deep learning framework that classifies **spi
 handwriting images as *Healthy* or *Parkinson's disease (PD)*. ResNet50 extracts deep features and a
 Capsule Network (dynamic routing) performs the classification.
 
-> Paper: *Hybrid ResNet50–CapsNet Deep Learning Framework for Early Parkinson's Disease Detection
-> using Spiral and Wave Handwriting Analysis* — K. Kala, K. Kavitha, B. Prabha (ICAANS 2026).
-> Add DOI / link here once published.
-
 ## Method
 
 ```
