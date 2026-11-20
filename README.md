@@ -83,9 +83,4 @@ src/evaluate.py     metrics, confusion matrix, ROC
   adjust them to match your experiments.
 - Research use only. This is not a medical diagnostic tool.
 
-## Citation
-
-```
-Kala, K., Kavitha, K., Prabha, B. Hybrid ResNet50–CapsNet Deep Learning Framework for Early
-Parkinson's Disease Detection using Spiral and Wave Handwriting Analysis. ICAANS 2026.
 ```
